@@ -44,18 +44,18 @@ The portfolio highlights my ability to conduct security audits, assess risks, ev
 
 ---
 
-## 📚 Certification Progress
+## 📚 Google Cybersecurity Professional Certificate Progress
 
-| Course                                                            | Project                               |     Status     |
-| ----------------------------------------------------------------- | ------------------------------------- | :------------: |
-| **Course 1 – Foundations of Cybersecurity**                       | Course completed (Certificate Earned) |   ✅ Completed  |
-| **Course 2 – Play It Safe: Manage Security Risks**                | Botium Toys Internal Security Audit   |   ✅ Completed  |
-| **Course 3 – Connect and Protect: Networks and Network Security** | Project in Development                | 🔄 In Progress |
-| **Course 4 – Tools of the Trade: Linux and SQL**                  | Planned                               |    ⏳ Planned   |
-| **Course 5 – Assets, Threats, and Vulnerabilities**               | Planned                               |    ⏳ Planned   |
-| **Course 6 – Sound the Alarm: Detection and Response**            | Planned                               |    ⏳ Planned   |
-| **Course 7 – Automate Cybersecurity Tasks with Python**           | Planned                               |    ⏳ Planned   |
-| **Course 8 – Put It to Work: Prepare for Cybersecurity Jobs**     | Planned                               |    ⏳ Planned   |
+| Course                                                            | Achievement                             | Status |
+| ----------------------------------------------------------------- | --------------------------------------- | :----: |
+| **Course 1 – Foundations of Cybersecurity**                       | ✅ Certificate Earned                    |    ✅   |
+| **Course 2 – Play It Safe: Manage Security Risks**                | 🛡️ Botium Toys Internal Security Audit |    ✅   |
+| **Course 3 – Connect and Protect: Networks and Network Security** | Currently in Progress                   |   🔄   |
+| **Course 4 – Tools of the Trade: Linux and SQL**                  | Planned                                 |    ⏳   |
+| **Course 5 – Assets, Threats, and Vulnerabilities**               | Planned                                 |    ⏳   |
+| **Course 6 – Sound the Alarm: Detection and Response**            | Planned                                 |    ⏳   |
+| **Course 7 – Automate Cybersecurity Tasks with Python**           | Planned                                 |    ⏳   |
+| **Course 8 – Put It to Work: Prepare for Cybersecurity Jobs**     | Planned                                 |    ⏳   |
 
 ### 🎯 Current Goal
 
@@ -111,6 +111,22 @@ Botium Toys, a fictional retail organization, requested an internal security aud
 * PCI DSS
 * GDPR
 * Security Best Practices
+
+---
+
+## 🏆 Certifications
+
+### Google Cybersecurity Professional Certificate
+
+**Completed**
+
+* ✅ Course 1 – Foundations of Cybersecurity
+
+**Credential**
+
+* 📜 Coursera Certificate: *(Paste your credential URL here)*
+
+The remaining courses will be added as they are completed.
 
 ---
 
