@@ -22,7 +22,6 @@ The purpose of this document is to establish a structured foundation for the sec
 ## Files
 
 * **Audit_Scope_and_Goals.docx** – Editable source document.
-* **Audit_Scope_and_Goals.pdf** – Final formatted version.
 
 ## Related Documents
 
