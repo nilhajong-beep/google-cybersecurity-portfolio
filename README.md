@@ -146,6 +146,11 @@ Botium Toys, a fictional retail organization, requested an internal security aud
 
 The remaining courses will be added as they are completed.
 
+### Simplilearn SkillUp
+
+- ✅ Introduction to the Computer Networking
+- 📅 Completed: July 2026
+- 🏢 Issued by: Simplilearn Skill
 ---
 
 ## 💻 Tools & Technologies
