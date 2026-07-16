@@ -134,23 +134,12 @@ Botium Toys, a fictional retail organization, requested an internal security aud
 
 ## 🏆 Certifications
 
-### Google Cybersecurity Professional Certificate
+| Certification | Issued By | Credential |
+|---------------|-----------|------------|
+| Google Cybersecurity Professional Certificate – Course 1: Foundations of Cybersecurity | Google via Coursera | [View Credential](https://coursera.org/verify/4XWEHM7X2UJ8) |
+| Introduction to the Computer Networking | Simplilearn SkillUp | Available in Repository |
+| Google Cloud Cybersecurity | Google Skills Boost | In Progress |
 
-**Completed**
-
-* ✅ Course 1 – Foundations of Cybersecurity
-
-**Credential**
-
-* 📜 Coursera Certificate: *https://coursera.org/verify/4XWEHM7X2UJ8*
-
-The remaining courses will be added as they are completed.
-
-### Simplilearn SkillUp
-
-- ✅ Introduction to the Computer Networking
-- 📅 Completed: July 2026
-- 🏢 Issued by: Simplilearn Skill
 ---
 
 ## 💻 Tools & Technologies
