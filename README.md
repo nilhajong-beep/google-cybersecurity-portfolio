@@ -124,7 +124,7 @@ Botium Toys, a fictional retail organization, requested an internal security aud
 
 **Credential**
 
-* 📜 Coursera Certificate: *(Paste your credential URL here)*
+* 📜 Coursera Certificate: *https://coursera.org/verify/4XWEHM7X2UJ8*
 
 The remaining courses will be added as they are completed.
 
