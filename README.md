@@ -44,17 +44,22 @@ The portfolio highlights my ability to conduct security audits, assess risks, ev
 
 ---
 
-## Portfolio Structure
+## 📚 Certification Progress
 
-| Course                                                        | Project                             | Status      |
-| ------------------------------------------------------------- | ----------------------------------- | ----------- |
-| Course 2 – Manage Security Risks                              | Botium Toys Internal Security Audit | ✅ Completed |
-| Course 3 – Connect and Protect: Networks and Network Security | Coming Soon                         | ⏳           |
-| Course 4 – Tools of the Trade: Linux and SQL                  | Coming Soon                         | ⏳           |
-| Course 5 – Assets, Threats, and Vulnerabilities               | Coming Soon                         | ⏳           |
-| Course 6 – Sound the Alarm: Detection and Response            | Coming Soon                         | ⏳           |
-| Course 7 – Automate Cybersecurity Tasks with Python           | Coming Soon                         | ⏳           |
-| Course 8 – Put It to Work: Prepare for Cybersecurity Jobs     | Coming Soon                         | ⏳           |
+| Course                                                            | Project                               |     Status     |
+| ----------------------------------------------------------------- | ------------------------------------- | :------------: |
+| **Course 1 – Foundations of Cybersecurity**                       | Course completed (Certificate Earned) |   ✅ Completed  |
+| **Course 2 – Play It Safe: Manage Security Risks**                | Botium Toys Internal Security Audit   |   ✅ Completed  |
+| **Course 3 – Connect and Protect: Networks and Network Security** | Project in Development                | 🔄 In Progress |
+| **Course 4 – Tools of the Trade: Linux and SQL**                  | Planned                               |    ⏳ Planned   |
+| **Course 5 – Assets, Threats, and Vulnerabilities**               | Planned                               |    ⏳ Planned   |
+| **Course 6 – Sound the Alarm: Detection and Response**            | Planned                               |    ⏳ Planned   |
+| **Course 7 – Automate Cybersecurity Tasks with Python**           | Planned                               |    ⏳ Planned   |
+| **Course 8 – Put It to Work: Prepare for Cybersecurity Jobs**     | Planned                               |    ⏳ Planned   |
+
+### 🎯 Current Goal
+
+Build a professional, recruiter-ready cybersecurity portfolio by documenting practical projects completed throughout the Google Cybersecurity Professional Certificate.
 
 ---
 
