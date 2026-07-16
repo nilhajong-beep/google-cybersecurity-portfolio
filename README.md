@@ -58,15 +58,43 @@ The portfolio highlights my ability to conduct security audits, assess risks, ev
 
 ---
 
-## Featured Project
+## ⭐ Featured Project
 
-### Botium Toys Internal Security Audit
+### 🛡️ Botium Toys Internal Security Audit
 
-This project presents a complete internal security audit for the fictional Botium Toys organization. It includes the audit scope, compliance checklist, security audit report, risk register, and a security improvement plan.
+**Role:** Junior Cybersecurity Analyst (Portfolio Project)
 
-**Project Folder**
+**Business Scenario**
 
-`course-02-manage-security-risks/botium-toys-security-audit`
+Botium Toys, a fictional retail organization, requested an internal security audit to evaluate its current security posture, identify risks, assess compliance with industry frameworks, and recommend improvements to strengthen organizational security.
+
+**Project Objectives**
+
+* Conduct a structured internal security audit.
+* Evaluate administrative, technical, and physical security controls.
+* Assess organizational risks and compliance requirements.
+* Develop a prioritized security improvement plan.
+
+**Skills Demonstrated**
+
+* Security Auditing
+* Risk Assessment
+* Compliance Analysis
+* Security Controls Evaluation
+* Technical Documentation
+* Risk Prioritization
+
+**Project Deliverables**
+
+* Audit Scope and Goals
+* Controls and Compliance Checklist
+* Security Audit Report
+* Risk Register and Matrix
+* Security Improvement Plan
+
+📂 **Open the project here:**
+
+**[`Course 2 – Botium Toys Internal Security Audit`](./course-02-manage-security-risks/botium-toys-security-audit/)**
 
 ---
 
